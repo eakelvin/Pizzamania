@@ -1,0 +1,13 @@
+.lightup {
+    background-color: #dc3545 !important;
+}
+
+a {
+    color: #f8f9fa;
+}
+
+.footer {
+    background-color:darkgoldenrod;
+    padding: 1.5rem 0;
+    color: white;
+}
